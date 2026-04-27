@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jellyfin for Kodi\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-02-17 07:03+0000\n"
-"Last-Translator: Danian Jansen <danianjansen@gmail.com>\n"
+"PO-Revision-Date: 2026-04-17 07:15+0000\n"
+"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
 "Language-Team: Dutch <https://translate.jellyfin.org/projects/jellyfin/"
 "jellyfin-kodi/nl/>\n"
 "Language: nl_nl\n"
@@ -1259,3 +1259,79 @@ msgstr "Segment"
 msgctxt "#33247"
 msgid "Enable segment skipping"
 msgstr "Segment"
+
+msgctxt "#33249"
+msgid "Auto skip"
+msgstr "Automatisch overslaan"
+
+msgctxt "#33251"
+msgid "Ask every time"
+msgstr "Altijd vragen"
+
+msgctxt "#33252"
+msgid "Introduction"
+msgstr "Introductie"
+
+msgctxt "#33254"
+msgid "Recap"
+msgstr "Samenvatting"
+
+msgctxt "#33255"
+msgid "Preview"
+msgstr "Voorbeeld"
+
+msgctxt "#33256"
+msgid "Skip"
+msgstr "Overslaan"
+
+msgctxt "#33257"
+msgid "Skip intro?"
+msgstr "Intro overslaan?"
+
+msgctxt "#33259"
+msgid "Commercial"
+msgstr "Reclame"
+
+msgctxt "#33260"
+msgid "Press SELECT to skip"
+msgstr "Klik SELECTEREN om over te slaan"
+
+msgctxt "#33261"
+msgid "Off"
+msgstr "Uit"
+
+msgctxt "#33248"
+msgid "Skip mode"
+msgstr "Overslaan-gedrag"
+
+msgctxt "#33250"
+msgid "Show skip button"
+msgstr "Laat overslaan-knop zien"
+
+msgctxt "#33253"
+msgid "Credits"
+msgstr "Aftiteling"
+
+msgctxt "#33258"
+msgid "Skip credits?"
+msgstr "Aftiteling overslaan?"
+
+msgctxt "#30618"
+msgid "Quick Connect"
+msgstr "Snelkoppeling"
+
+msgctxt "#30619"
+msgid "Enter this code in the Jellyfin app or web interface:"
+msgstr "Voer deze code in de Jellyfin-app of via de webinterface in:"
+
+msgctxt "#30620"
+msgid "Waiting for authorization..."
+msgstr "Wachten op autorisatie..."
+
+msgctxt "#30621"
+msgid "Quick Connect is not available on this server"
+msgstr "Snelkoppeling is op deze server niet beschikbaar"
+
+msgctxt "#30622"
+msgid "Quick Connect timed out. Please try again."
+msgstr "De verbinding met Snelkoppeling is verbroken. Probeer het opnieuw."

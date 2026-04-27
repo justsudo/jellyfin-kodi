@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 05:56+0000\n"
-"Last-Translator: Anton Antonov <antona@flutterint.com>\n"
+"PO-Revision-Date: 2026-04-24 01:29+0000\n"
+"Last-Translator: aleks <alexboom519@gmail.com>\n"
 "Language-Team: Bulgarian <https://translate.jellyfin.org/projects/jellyfin/"
 "jellyfin-kodi/bg/>\n"
 "Language: bg_bg\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgctxt "#30506"
 msgid "Sync"
@@ -940,7 +940,7 @@ msgstr "Полетата сървър или порт не могат да бъ�
 
 msgctxt "#30616"
 msgid "Connect"
-msgstr "Сврържи се"
+msgstr "Свързване"
 
 msgctxt "#30615"
 msgid "Host"
@@ -1189,3 +1189,87 @@ msgstr "384"
 msgctxt "#33213"
 msgid "Unlimited [default]"
 msgstr "Неограничен [по подразбиране]"
+
+msgctxt "#33246"
+msgid "Segment Skipping"
+msgstr "Пропускане на сегменти"
+
+msgctxt "#33247"
+msgid "Enable segment skipping"
+msgstr "Активиране на пропускането на сегменти"
+
+msgctxt "#33248"
+msgid "Skip mode"
+msgstr "Режим на пропускане"
+
+msgctxt "#33249"
+msgid "Auto skip"
+msgstr "Автоматично пропускане"
+
+msgctxt "#33250"
+msgid "Show skip button"
+msgstr "Показване на бутон за пропускане"
+
+msgctxt "#33251"
+msgid "Ask every time"
+msgstr "Питай всеки път"
+
+msgctxt "#33252"
+msgid "Introduction"
+msgstr "Въведение"
+
+msgctxt "#33253"
+msgid "Credits"
+msgstr "Финални надписи"
+
+msgctxt "#33254"
+msgid "Recap"
+msgstr "Обобщение"
+
+msgctxt "#33255"
+msgid "Preview"
+msgstr "Преглед"
+
+msgctxt "#33256"
+msgid "Skip"
+msgstr "Пропусни"
+
+msgctxt "#33257"
+msgid "Skip intro?"
+msgstr "Пропускане на интрото?"
+
+msgctxt "#33258"
+msgid "Skip credits?"
+msgstr "Пропускане на финалните надписи?"
+
+msgctxt "#33259"
+msgid "Commercial"
+msgstr "Реклама"
+
+msgctxt "#33261"
+msgid "Off"
+msgstr "Изключено"
+
+msgctxt "#33260"
+msgid "Press SELECT to skip"
+msgstr "Натиснете SELECT за да пропуснете"
+
+msgctxt "#30618"
+msgid "Quick Connect"
+msgstr "Бърза връзка"
+
+msgctxt "#30619"
+msgid "Enter this code in the Jellyfin app or web interface:"
+msgstr "Въведете кода в Jellyfin приложение или уеб интерфейс:"
+
+msgctxt "#30620"
+msgid "Waiting for authorization..."
+msgstr "Изчакване на упълномощаване..."
+
+msgctxt "#30621"
+msgid "Quick Connect is not available on this server"
+msgstr "Бърза Връзка не е налична на този сървър"
+
+msgctxt "#30622"
+msgid "Quick Connect timed out. Please try again."
+msgstr "Времето за Бърна Връзка изтече. Моля, опитайте отново."
